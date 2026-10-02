@@ -16,5 +16,4 @@ print(celkova_cena)
 
 cena_jeden = round(celkova_cena / pocet_lidi + 0.5)
 print(f"Cena_jeden: {cena_jeden}")
-
-
+#print("Cena za jednoho: "+str(cena_jden))
